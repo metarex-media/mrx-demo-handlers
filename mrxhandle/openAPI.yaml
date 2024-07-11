@@ -1,0 +1,195 @@
+openapi: 3.0.0
+info:
+  version: 0.1.0
+  title: MRX Demo API
+  description: A simple API to demonstare MRX transformations
+
+servers:
+  - url: http://localhost:1323
+
+
+paths:
+  /sphere:
+    post:
+      description: Transforms xyz coordinates from one format to another
+      requestBody:
+        required: true
+        content:
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/audioBlockFormat'
+      responses:
+        '200':
+          $ref: '#/components/responses/200Success'
+        '400':
+          $ref: '#/components/responses/400Error'
+  /3dTransform:
+    post:
+      description: Transforms xyz coordinates from one format to another
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/3DcoordinatesIn'
+      responses:
+        '200':
+          $ref: '#/components/responses/200Success'
+        '400':
+          $ref: '#/components/responses/400Error'
+  /dolby:
+    post:
+      description: Transforms mpegh coordiantes to dolby
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/mpegh'
+      responses:
+        '200':
+          description: Valid request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/3DcoordinatesIn'
+        '400':
+          $ref: '#/components/responses/400Error'          
+  /tempTransform:
+    post:
+      description: Transforms xyz coordinates from one format to another
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/tempsIn'
+      responses:
+        '200':
+          description: Valid request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/tempsOut'
+        '400':
+          $ref: '#/components/responses/400Error'  
+  /mpegh:
+    post:
+      description: Transforms xyz coordinates from one format to another
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/3DcoordinatesOut'
+      responses:
+        '200':
+          description: Valid request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/mpegh'
+        '400':
+          $ref: '#/components/responses/400Error'                
+              
+              
+components:
+  securitySchemes:
+    BasicAuth:
+      type: http
+      scheme: basic
+
+  schemas:
+    audioBlockFormat: 
+      type: "array"
+      items: 
+        properties:
+          position: 
+            type: number
+             
+    3DcoordinatesIn:
+      type: object
+      additionalProperties: false
+      properties:
+        x1:
+          type: integer
+        y1:
+            type: integer
+        z1:
+            type: integer
+    3DcoordinatesOut:
+      type: object
+      additionalProperties: false
+      properties:
+        x:
+          type: integer
+        y:
+            type: integer
+        z:
+            type: integer
+    mpegh:
+      type: object
+      additionalProperties: false
+      properties:
+        xNormalised:
+          type: number
+        yNormalised:
+            type: number
+        zNormalised:
+            type: number
+    tempsIn: 
+      type: object
+      additionalProperties: false
+      properties: 
+        temperature: 
+          type: number
+        feels_like: 
+          type: number
+        temperature_min: 
+          type: number
+        temperature_max: 
+          type: number 
+    tempsOut: 
+      type: object
+      additionalProperties: false
+      properties: 
+        temperature_celsius: 
+          type: number
+        feels_like_celsius: 
+          type: number
+        temperature_min_celsius: 
+          type: number
+        temperature_max_celsius: 
+          type: number 
+
+  parameters:
+    PageLimit:
+      name: limit
+      in: query
+      description: Limits the number of items on a page
+      schema:
+        type: integer
+      
+    PageOffset:
+      name: offset
+      in: query
+      description: Specifies the page number of the artists to be displayed
+      schema:
+        type: integer
+
+  responses:
+    400Error:
+      description: Invalid request
+      content:
+        application/json:
+          schema:
+            type: object 
+            properties:
+              message:
+                type: string
+    200Success:
+      description: Valid request
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/3DcoordinatesOut'

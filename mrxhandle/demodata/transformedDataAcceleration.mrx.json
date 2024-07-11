@@ -1,0 +1,602 @@
+[
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 0,
+        "Acceleration ": 0
+    },
+    {
+        "XAcceleration ": 9,
+        "YAcceleration ": 9,
+        "ZAcceleration ": 10,
+        "Acceleration ": 16.186414056238647
+    },
+    {
+        "XAcceleration ": -4,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 0,
+        "Acceleration ": -2.4386869713711263
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 2,
+        "ZAcceleration ": -7,
+        "Acceleration ": -1.7061325060752246
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 3,
+        "Acceleration ": 4.6916059518892155
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 2,
+        "Acceleration ": 0.845195300565436
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": -6,
+        "ZAcceleration ": -2,
+        "Acceleration ": -1.1771763643902204
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 3,
+        "Acceleration ": 3.2710961060492743
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 1,
+        "Acceleration ": -1.7558427057370842
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 2,
+        "Acceleration ": 4.219470754009738
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 1,
+        "Acceleration ": 1.4860800008567772
+    },
+    {
+        "XAcceleration ": 10,
+        "YAcceleration ": -3,
+        "ZAcceleration ": 5,
+        "Acceleration ": 6.709478154170771
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 7,
+        "ZAcceleration ": -6,
+        "Acceleration ": -1.8710028346907883
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 2,
+        "Acceleration ": 1.4226066534524549
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 9,
+        "Acceleration ": 6.2001315103695624
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": -6,
+        "ZAcceleration ": -7,
+        "Acceleration ": -4.523769429218433
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 7,
+        "Acceleration ": 5.332265815274432
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 7,
+        "ZAcceleration ": 1,
+        "Acceleration ": 4.7015351947774136
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": -3,
+        "ZAcceleration ": -5,
+        "Acceleration ": -2.9927505549332807
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 3,
+        "ZAcceleration ": 4,
+        "Acceleration ": 0.6677897009061553
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": 3,
+        "ZAcceleration ": 2,
+        "Acceleration ": 5.787213472131519
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 5,
+        "Acceleration ": -0.23365164224529877
+    },
+    {
+        "XAcceleration ": 9,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -4,
+        "Acceleration ": 2.2206642833263643
+    },
+    {
+        "XAcceleration ": -6,
+        "YAcceleration ": 2,
+        "ZAcceleration ": -1,
+        "Acceleration ": -3.1563174303729227
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 5,
+        "Acceleration ": 8.659002106695226
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": -3,
+        "ZAcceleration ": 2,
+        "Acceleration ": -1.037937582974962
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 0,
+        "Acceleration ": 0.6846723640959098
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 1,
+        "ZAcceleration ": -4,
+        "Acceleration ": -4.8421909957926985
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 6,
+        "ZAcceleration ": 3,
+        "Acceleration ": 6.418257828073401
+    },
+    {
+        "XAcceleration ": 8,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 5,
+        "Acceleration ": 6.9691183211606
+    },
+    {
+        "XAcceleration ": -6,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -1,
+        "Acceleration ": -4.639010245217861
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 5,
+        "ZAcceleration ": -3,
+        "Acceleration ": 2.859483580911707
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 1,
+        "Acceleration ": 1.7795266643061538
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 4,
+        "Acceleration ": 4.569828912781922
+    },
+    {
+        "XAcceleration ": 7,
+        "YAcceleration ": -3,
+        "ZAcceleration ": 0,
+        "Acceleration ": 2.420427283765406
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 3,
+        "ZAcceleration ": 5,
+        "Acceleration ": 1.6123485406506717
+    },
+    {
+        "XAcceleration ": -2,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 1,
+        "Acceleration ": 0.7245129289745762
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 1,
+        "ZAcceleration ": -6,
+        "Acceleration ": -2.336861469625248
+    },
+    {
+        "XAcceleration ": 4,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 9,
+        "Acceleration ": 9.770992327202066
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": -2,
+        "ZAcceleration ": -7,
+        "Acceleration ": -4.628640271043537
+    },
+    {
+        "XAcceleration ": -2,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 1,
+        "Acceleration ": 0.0411577252860269
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": -2,
+        "ZAcceleration ": 3,
+        "Acceleration ": 1.5807057316220323
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 2,
+        "Acceleration ": 5.789147079850423
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": -2,
+        "ZAcceleration ": 0,
+        "Acceleration ": 0.7254152586093454
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 5,
+        "ZAcceleration ": 8,
+        "Acceleration ": 7.954492860822356
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": -2,
+        "ZAcceleration ": -1,
+        "Acceleration ": -2.277333734059553
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 7,
+        "ZAcceleration ": -1,
+        "Acceleration ": 0.6837101096534184
+    },
+    {
+        "XAcceleration ": 7,
+        "YAcceleration ": -6,
+        "ZAcceleration ": 3,
+        "Acceleration ": 2.2376455366603807
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 6,
+        "ZAcceleration ": -6,
+        "Acceleration ": 0
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 6,
+        "Acceleration ": 7.431388388274485
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": -6,
+        "ZAcceleration ": 5,
+        "Acceleration ": -0.963186769862034
+    },
+    {
+        "XAcceleration ": -3,
+        "YAcceleration ": 3,
+        "ZAcceleration ": -6,
+        "Acceleration ": -3.6932375567556193
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 8,
+        "Acceleration ": 8.148951455849556
+    },
+    {
+        "XAcceleration ": -2,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 1,
+        "Acceleration ": 0.6692231687091947
+    },
+    {
+        "XAcceleration ": 8,
+        "YAcceleration ": 4,
+        "ZAcceleration ": -5,
+        "Acceleration ": 3.9782168359053287
+    },
+    {
+        "XAcceleration ": -7,
+        "YAcceleration ": -2,
+        "ZAcceleration ": 7,
+        "Acceleration ": -1.051117929551097
+    },
+    {
+        "XAcceleration ": 10,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 1,
+        "Acceleration ": 5.64756703053979
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 2,
+        "ZAcceleration ": -7,
+        "Acceleration ": -2.8472844954414
+    },
+    {
+        "XAcceleration ": -7,
+        "YAcceleration ": -2,
+        "ZAcceleration ": 0,
+        "Acceleration ": -5.298439377759337
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 3,
+        "Acceleration ": 3.4731842989499313
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": 5,
+        "ZAcceleration ": 4,
+        "Acceleration ": 8.081318109117348
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -3,
+        "Acceleration ": 1.2739608872286823
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 7,
+        "Acceleration ": 3.9128385963073526
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 3,
+        "Acceleration ": 1.7984810674950893
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -7,
+        "Acceleration ": -4.015786990762777
+    },
+    {
+        "XAcceleration ": -6,
+        "YAcceleration ": 8,
+        "ZAcceleration ": 3,
+        "Acceleration ": 2.9206430515044417
+    },
+    {
+        "XAcceleration ": 6,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 6,
+        "Acceleration ": 6.809488941186203
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": -5,
+        "ZAcceleration ": 2,
+        "Acceleration ": -1.6190757250304557
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 7,
+        "ZAcceleration ": 1,
+        "Acceleration ": 6.2372217787827395
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -1,
+        "Acceleration ": 0.5772715076423083
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 0,
+        "ZAcceleration ": 2,
+        "Acceleration ": 1.7544056888417572
+    },
+    {
+        "XAcceleration ": -2,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 2,
+        "Acceleration ": 1.1543544569911717
+    },
+    {
+        "XAcceleration ": -3,
+        "YAcceleration ": 1,
+        "ZAcceleration ": -3,
+        "Acceleration ": -2.8858747133321003
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": -3,
+        "ZAcceleration ": 4,
+        "Acceleration ": 2.3661522266479835
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 4,
+        "ZAcceleration ": -7,
+        "Acceleration ": -0.044963061795556314
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": 4,
+        "ZAcceleration ": 2,
+        "Acceleration ": 6.422380604232586
+    },
+    {
+        "XAcceleration ": -4,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 7,
+        "Acceleration ": 2.2065183697138764
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 2,
+        "ZAcceleration ": -4,
+        "Acceleration ": -1.102488747270229
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": -1,
+        "ZAcceleration ": 5,
+        "Acceleration ": 2.273311845994897
+    },
+    {
+        "XAcceleration ": 2,
+        "YAcceleration ": 1,
+        "ZAcceleration ": -3,
+        "Acceleration ": -0.006982429876160268
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 4,
+        "ZAcceleration ": -1,
+        "Acceleration ": 3.5724299828317214
+    },
+    {
+        "XAcceleration ": -2,
+        "YAcceleration ": -2,
+        "ZAcceleration ": 4,
+        "Acceleration ": -0.10904305182023677
+    },
+    {
+        "XAcceleration ": 8,
+        "YAcceleration ": 1,
+        "ZAcceleration ": -1,
+        "Acceleration ": 4.697194917633794
+    },
+    {
+        "XAcceleration ": -4,
+        "YAcceleration ": -4,
+        "ZAcceleration ": 2,
+        "Acceleration ": -3.5562547475695396
+    },
+    {
+        "XAcceleration ": -3,
+        "YAcceleration ": 1,
+        "ZAcceleration ": 0,
+        "Acceleration ": -1.1682136018397955
+    },
+    {
+        "XAcceleration ": 8,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 3,
+        "Acceleration ": 7.548683369952585
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": 3,
+        "ZAcceleration ": 2,
+        "Acceleration ": 2.2661286206244426
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": -3,
+        "ZAcceleration ": 4,
+        "Acceleration ": 0.07667614461777816
+    },
+    {
+        "XAcceleration ": 0,
+        "YAcceleration ": 3,
+        "ZAcceleration ": -4,
+        "Acceleration ": -0.656156843100888
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 2,
+        "ZAcceleration ": 6,
+        "Acceleration ": 6.377560917493753
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 7,
+        "ZAcceleration ": 2,
+        "Acceleration ": 6.915288062709834
+    },
+    {
+        "XAcceleration ": -4,
+        "YAcceleration ": -7,
+        "ZAcceleration ": -1,
+        "Acceleration ": -6.890638465727619
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": 8,
+        "ZAcceleration ": 0,
+        "Acceleration ": 6.33705853496528
+    },
+    {
+        "XAcceleration ": -1,
+        "YAcceleration ": -1,
+        "ZAcceleration ": -3,
+        "Acceleration ": -2.8740302677006753
+    },
+    {
+        "XAcceleration ": 3,
+        "YAcceleration ": -4,
+        "ZAcceleration ": 4,
+        "Acceleration ": 1.6957020631027149
+    },
+    {
+        "XAcceleration ": 5,
+        "YAcceleration ": 7,
+        "ZAcceleration ": 6,
+        "Acceleration ": 10.385867281733084
+    },
+    {
+        "XAcceleration ": -4,
+        "YAcceleration ": -5,
+        "ZAcceleration ": -2,
+        "Acceleration ": -6.317532970348509
+    },
+    {
+        "XAcceleration ": 1,
+        "YAcceleration ": 3,
+        "ZAcceleration ": 3,
+        "Acceleration ": 4.059498659129986
+    },
+    {
+        "XAcceleration ": 8,
+        "YAcceleration ": 0,
+        "ZAcceleration ": -2,
+        "Acceleration ": 3.4741332399644875
+    },
+    {
+        "XAcceleration ": -5,
+        "YAcceleration ": 5,
+        "ZAcceleration ": 3,
+        "Acceleration ": 1.6871323332203474
+    }
+]

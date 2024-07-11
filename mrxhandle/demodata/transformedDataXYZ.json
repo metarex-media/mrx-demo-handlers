@@ -1,0 +1,502 @@
+[
+    {
+        "xNormalised": 0.09278350515463918,
+        "yNormalised": 0.8888888888888888,
+        "zNormalised": 0.7676767676767676
+    },
+    {
+        "xNormalised": 0.9896907216494846,
+        "yNormalised": 0.1111111111111111,
+        "zNormalised": 0.6464646464646465
+    },
+    {
+        "xNormalised": 0.7010309278350515,
+        "yNormalised": 0.5959595959595959,
+        "zNormalised": 0.7878787878787878
+    },
+    {
+        "xNormalised": 0.6597938144329897,
+        "yNormalised": 0.5757575757575758,
+        "zNormalised": 0.5555555555555556
+    },
+    {
+        "xNormalised": 0.09278350515463918,
+        "yNormalised": 0.18181818181818182,
+        "zNormalised": 0.10101010101010101
+    },
+    {
+        "xNormalised": 0.27835051546391754,
+        "yNormalised": 0.9393939393939394,
+        "zNormalised": 0.6262626262626263
+    },
+    {
+        "xNormalised": 0.3402061855670103,
+        "yNormalised": 0.15151515151515152,
+        "zNormalised": 0.6464646464646465
+    },
+    {
+        "xNormalised": 0.010309278350515464,
+        "yNormalised": 0.6868686868686869,
+        "zNormalised": 0.26262626262626265
+    },
+    {
+        "xNormalised": 0.7731958762886598,
+        "yNormalised": 0.494949494949495,
+        "zNormalised": 0.5757575757575758
+    },
+    {
+        "xNormalised": 0.7731958762886598,
+        "yNormalised": 0.6464646464646465,
+        "zNormalised": 0.36363636363636365
+    },
+    {
+        "xNormalised": 0.14432989690721648,
+        "yNormalised": 0.3333333333333333,
+        "zNormalised": 0.46464646464646464
+    },
+    {
+        "xNormalised": 0.14432989690721648,
+        "yNormalised": 0.5252525252525253,
+        "zNormalised": 0.9191919191919192
+    },
+    {
+        "xNormalised": 0.5876288659793815,
+        "yNormalised": 0.8585858585858586,
+        "zNormalised": 0.6868686868686869
+    },
+    {
+        "xNormalised": 0.845360824742268,
+        "yNormalised": 0.898989898989899,
+        "zNormalised": 0.7575757575757576
+    },
+    {
+        "xNormalised": 0.4742268041237113,
+        "yNormalised": 0.31313131313131315,
+        "zNormalised": 0.8383838383838383
+    },
+    {
+        "xNormalised": 0.23711340206185566,
+        "yNormalised": 0.9090909090909091,
+        "zNormalised": 0.7575757575757576
+    },
+    {
+        "xNormalised": 0.041237113402061855,
+        "yNormalised": 0.5151515151515151,
+        "zNormalised": 0.9595959595959596
+    },
+    {
+        "xNormalised": 0.010309278350515464,
+        "yNormalised": 0.98989898989899,
+        "zNormalised": 1
+    },
+    {
+        "xNormalised": 0.35051546391752575,
+        "yNormalised": 0.1919191919191919,
+        "zNormalised": 0.7878787878787878
+    },
+    {
+        "xNormalised": 0.7422680412371134,
+        "yNormalised": 1,
+        "zNormalised": 0.8787878787878788
+    },
+    {
+        "xNormalised": 0.5463917525773195,
+        "yNormalised": 0.2828282828282828,
+        "zNormalised": 0.9090909090909091
+    },
+    {
+        "xNormalised": 0.07216494845360824,
+        "yNormalised": 0.3333333333333333,
+        "zNormalised": 0.6464646464646465
+    },
+    {
+        "xNormalised": 0.5360824742268041,
+        "yNormalised": 0.5454545454545454,
+        "zNormalised": 0.1717171717171717
+    },
+    {
+        "xNormalised": 0.6288659793814433,
+        "yNormalised": 0.40404040404040403,
+        "zNormalised": 0.9191919191919192
+    },
+    {
+        "xNormalised": 0.3402061855670103,
+        "yNormalised": 0.15151515151515152,
+        "zNormalised": 0.31313131313131315
+    },
+    {
+        "xNormalised": 0.07216494845360824,
+        "yNormalised": 0.494949494949495,
+        "zNormalised": 0.8585858585858586
+    },
+    {
+        "xNormalised": 0.4020618556701031,
+        "yNormalised": 0.12121212121212122,
+        "zNormalised": 0.32323232323232326
+    },
+    {
+        "xNormalised": 0.12371134020618557,
+        "yNormalised": 0.29292929292929293,
+        "zNormalised": 0.030303030303030304
+    },
+    {
+        "xNormalised": 0.6597938144329897,
+        "yNormalised": 0.25252525252525254,
+        "zNormalised": 0.40404040404040403
+    },
+    {
+        "xNormalised": 0.41237113402061853,
+        "yNormalised": 0.5151515151515151,
+        "zNormalised": 0.24242424242424243
+    },
+    {
+        "xNormalised": 0.5360824742268041,
+        "yNormalised": 0.7575757575757576,
+        "zNormalised": 0.7171717171717171
+    },
+    {
+        "xNormalised": 0.4948453608247423,
+        "yNormalised": 0.18181818181818182,
+        "zNormalised": 0.9292929292929293
+    },
+    {
+        "xNormalised": 0.29896907216494845,
+        "yNormalised": 0.15151515151515152,
+        "zNormalised": 0.6464646464646465
+    },
+    {
+        "xNormalised": 0.6907216494845361,
+        "yNormalised": 0.43434343434343436,
+        "zNormalised": 0.7171717171717171
+    },
+    {
+        "xNormalised": 0.4845360824742268,
+        "yNormalised": 0.1414141414141414,
+        "zNormalised": 0.8787878787878788
+    },
+    {
+        "xNormalised": 0.5154639175257731,
+        "yNormalised": 0.18181818181818182,
+        "zNormalised": 0.30303030303030304
+    },
+    {
+        "xNormalised": 0.16494845360824742,
+        "yNormalised": 0.9696969696969697,
+        "zNormalised": 0.41414141414141414
+    },
+    {
+        "xNormalised": 0.4845360824742268,
+        "yNormalised": 0.7878787878787878,
+        "zNormalised": 0.5252525252525253
+    },
+    {
+        "xNormalised": 0.9896907216494846,
+        "yNormalised": 0.9595959595959596,
+        "zNormalised": 0.7575757575757576
+    },
+    {
+        "xNormalised": 0.5051546391752577,
+        "yNormalised": 0.35353535353535354,
+        "zNormalised": 0.6161616161616161
+    },
+    {
+        "xNormalised": 0.010309278350515464,
+        "yNormalised": 0.6161616161616161,
+        "zNormalised": 0.8383838383838383
+    },
+    {
+        "xNormalised": 0.7422680412371134,
+        "yNormalised": 0.8484848484848485,
+        "zNormalised": 0.8080808080808081
+    },
+    {
+        "xNormalised": 0.5463917525773195,
+        "yNormalised": 0.7878787878787878,
+        "zNormalised": 1
+    },
+    {
+        "xNormalised": 0.41237113402061853,
+        "yNormalised": 0.030303030303030304,
+        "zNormalised": 0.5252525252525253
+    },
+    {
+        "xNormalised": 0.4329896907216495,
+        "yNormalised": 0.43434343434343436,
+        "zNormalised": 0.7878787878787878
+    },
+    {
+        "xNormalised": 0.3711340206185567,
+        "yNormalised": 0.9696969696969697,
+        "zNormalised": 0.5757575757575758
+    },
+    {
+        "xNormalised": 0.36082474226804123,
+        "yNormalised": 0.5050505050505051,
+        "zNormalised": 0.98989898989899
+    },
+    {
+        "xNormalised": 0.44329896907216493,
+        "yNormalised": 0.9696969696969697,
+        "zNormalised": 0.21212121212121213
+    },
+    {
+        "xNormalised": 0.44329896907216493,
+        "yNormalised": 0.6464646464646465,
+        "zNormalised": 0.42424242424242425
+    },
+    {
+        "xNormalised": 0.29896907216494845,
+        "yNormalised": 0.5151515151515151,
+        "zNormalised": 0.797979797979798
+    },
+    {
+        "xNormalised": 0.5463917525773195,
+        "yNormalised": 0.5454545454545454,
+        "zNormalised": 0.35353535353535354
+    },
+    {
+        "xNormalised": 0.28865979381443296,
+        "yNormalised": 0.9494949494949495,
+        "zNormalised": 0.5959595959595959
+    },
+    {
+        "xNormalised": 0.6907216494845361,
+        "yNormalised": 0.35353535353535354,
+        "zNormalised": 0.5959595959595959
+    },
+    {
+        "xNormalised": 0.4948453608247423,
+        "yNormalised": 0.2727272727272727,
+        "zNormalised": 0.010101010101010102
+    },
+    {
+        "xNormalised": 0.21649484536082475,
+        "yNormalised": 0.5858585858585859,
+        "zNormalised": 0.050505050505050504
+    },
+    {
+        "xNormalised": 0.35051546391752575,
+        "yNormalised": 0.1111111111111111,
+        "zNormalised": 0.898989898989899
+    },
+    {
+        "xNormalised": 0.35051546391752575,
+        "yNormalised": 0.06060606060606061,
+        "zNormalised": 0.10101010101010101
+    },
+    {
+        "xNormalised": 0.7216494845360825,
+        "yNormalised": 0.9797979797979798,
+        "zNormalised": 0.3333333333333333
+    },
+    {
+        "xNormalised": 0.6701030927835051,
+        "yNormalised": 0.31313131313131315,
+        "zNormalised": 0.7777777777777778
+    },
+    {
+        "xNormalised": 0.1134020618556701,
+        "yNormalised": 0.45454545454545453,
+        "zNormalised": 0.8080808080808081
+    },
+    {
+        "xNormalised": 0.6907216494845361,
+        "yNormalised": 0.20202020202020202,
+        "zNormalised": 0.42424242424242425
+    },
+    {
+        "xNormalised": 0.6288659793814433,
+        "yNormalised": 0.35353535353535354,
+        "zNormalised": 0.35353535353535354
+    },
+    {
+        "xNormalised": 0.6391752577319587,
+        "yNormalised": 0.26262626262626265,
+        "zNormalised": 0.35353535353535354
+    },
+    {
+        "xNormalised": 0.5463917525773195,
+        "yNormalised": 0.41414141414141414,
+        "zNormalised": 0.9090909090909091
+    },
+    {
+        "xNormalised": 1,
+        "yNormalised": 0.8080808080808081,
+        "zNormalised": 0.8585858585858586
+    },
+    {
+        "xNormalised": 0.1958762886597938,
+        "yNormalised": 0.2222222222222222,
+        "zNormalised": 0.41414141414141414
+    },
+    {
+        "xNormalised": 0.7216494845360825,
+        "yNormalised": 0.10101010101010101,
+        "zNormalised": 0.9090909090909091
+    },
+    {
+        "xNormalised": 0.9896907216494846,
+        "yNormalised": 0.6060606060606061,
+        "zNormalised": 0.6464646464646465
+    },
+    {
+        "xNormalised": 0.41237113402061853,
+        "yNormalised": 0.050505050505050504,
+        "zNormalised": 0.12121212121212122
+    },
+    {
+        "xNormalised": 0.4742268041237113,
+        "yNormalised": 0.41414141414141414,
+        "zNormalised": 0.1414141414141414
+    },
+    {
+        "xNormalised": 0.845360824742268,
+        "yNormalised": 0.98989898989899,
+        "zNormalised": 0.21212121212121213
+    },
+    {
+        "xNormalised": 0.1958762886597938,
+        "yNormalised": 0.5555555555555556,
+        "zNormalised": 0.5151515151515151
+    },
+    {
+        "xNormalised": 0.17525773195876287,
+        "yNormalised": 0.20202020202020202,
+        "zNormalised": 0.1919191919191919
+    },
+    {
+        "xNormalised": 0.16494845360824742,
+        "yNormalised": 0.45454545454545453,
+        "zNormalised": 0.6666666666666666
+    },
+    {
+        "xNormalised": 0.7525773195876289,
+        "yNormalised": 0.42424242424242425,
+        "zNormalised": 0.32323232323232326
+    },
+    {
+        "xNormalised": 0.6082474226804123,
+        "yNormalised": 0.47474747474747475,
+        "zNormalised": 0.6363636363636364
+    },
+    {
+        "xNormalised": 0.25773195876288657,
+        "yNormalised": 0.06060606060606061,
+        "zNormalised": 0.32323232323232326
+    },
+    {
+        "xNormalised": 0.5773195876288659,
+        "yNormalised": 0.9393939393939394,
+        "zNormalised": 0.7373737373737373
+    },
+    {
+        "xNormalised": 0.030927835051546393,
+        "yNormalised": 0,
+        "zNormalised": 0.2828282828282828
+    },
+    {
+        "xNormalised": 0.07216494845360824,
+        "yNormalised": 0.6060606060606061,
+        "zNormalised": 0.020202020202020204
+    },
+    {
+        "xNormalised": 0.5257731958762887,
+        "yNormalised": 0.13131313131313133,
+        "zNormalised": 0.0707070707070707
+    },
+    {
+        "xNormalised": 0.5051546391752577,
+        "yNormalised": 0,
+        "zNormalised": 0.6666666666666666
+    },
+    {
+        "xNormalised": 1,
+        "yNormalised": 0.30303030303030304,
+        "zNormalised": 0.37373737373737376
+    },
+    {
+        "xNormalised": 0.6391752577319587,
+        "yNormalised": 0.9393939393939394,
+        "zNormalised": 0.2222222222222222
+    },
+    {
+        "xNormalised": 0.6597938144329897,
+        "yNormalised": 0.5454545454545454,
+        "zNormalised": 0.1414141414141414
+    },
+    {
+        "xNormalised": 0.8556701030927835,
+        "yNormalised": 0.7474747474747475,
+        "zNormalised": 0.5454545454545454
+    },
+    {
+        "xNormalised": 0.4020618556701031,
+        "yNormalised": 0.6565656565656566,
+        "zNormalised": 0.5656565656565656
+    },
+    {
+        "xNormalised": 0.32989690721649484,
+        "yNormalised": 0.8888888888888888,
+        "zNormalised": 0.898989898989899
+    },
+    {
+        "xNormalised": 0.24742268041237114,
+        "yNormalised": 0.8383838383838383,
+        "zNormalised": 0.5353535353535354
+    },
+    {
+        "xNormalised": 0.3917525773195876,
+        "yNormalised": 0.16161616161616163,
+        "zNormalised": 0.45454545454545453
+    },
+    {
+        "xNormalised": 0.8144329896907216,
+        "yNormalised": 0.5454545454545454,
+        "zNormalised": 0.5151515151515151
+    },
+    {
+        "xNormalised": 0.31958762886597936,
+        "yNormalised": 0.36363636363636365,
+        "zNormalised": 0.29292929292929293
+    },
+    {
+        "xNormalised": 0.5154639175257731,
+        "yNormalised": 0.6464646464646465,
+        "zNormalised": 0.494949494949495
+    },
+    {
+        "xNormalised": 0.9484536082474226,
+        "yNormalised": 0.9393939393939394,
+        "zNormalised": 0.13131313131313133
+    },
+    {
+        "xNormalised": 0.4742268041237113,
+        "yNormalised": 0.8484848484848485,
+        "zNormalised": 0.5454545454545454
+    },
+    {
+        "xNormalised": 0.061855670103092786,
+        "yNormalised": 0.9393939393939394,
+        "zNormalised": 0.46464646464646464
+    },
+    {
+        "xNormalised": 0.31958762886597936,
+        "yNormalised": 0.09090909090909091,
+        "zNormalised": 0.5252525252525253
+    },
+    {
+        "xNormalised": 0.041237113402061855,
+        "yNormalised": 0.7272727272727273,
+        "zNormalised": 0.25252525252525254
+    },
+    {
+        "xNormalised": 0.5567010309278351,
+        "yNormalised": 0.42424242424242425,
+        "zNormalised": 0.8484848484848485
+    },
+    {
+        "xNormalised": 0.9896907216494846,
+        "yNormalised": 0.45454545454545453,
+        "zNormalised": 0.6363636363636364
+    }
+]

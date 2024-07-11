@@ -1,0 +1,602 @@
+[
+    {
+        "XVelocity": 0,
+        "YVelocity": 0,
+        "ZVelocity": 0,
+        "Velocity": 0
+    },
+    {
+        "XVelocity": 9,
+        "YVelocity": 9,
+        "ZVelocity": 10,
+        "Velocity": 16.186414056238647
+    },
+    {
+        "XVelocity": 5,
+        "YVelocity": 8,
+        "ZVelocity": 10,
+        "Velocity": 13.74772708486752
+    },
+    {
+        "XVelocity": 6,
+        "YVelocity": 10,
+        "ZVelocity": 3,
+        "Velocity": 12.041594578792296
+    },
+    {
+        "XVelocity": 12,
+        "YVelocity": 10,
+        "ZVelocity": 6,
+        "Velocity": 16.73320053068151
+    },
+    {
+        "XVelocity": 7,
+        "YVelocity": 14,
+        "ZVelocity": 8,
+        "Velocity": 17.578395831246947
+    },
+    {
+        "XVelocity": 13,
+        "YVelocity": 8,
+        "ZVelocity": 6,
+        "Velocity": 16.401219466856727
+    },
+    {
+        "XVelocity": 15,
+        "YVelocity": 9,
+        "ZVelocity": 9,
+        "Velocity": 19.672315572906
+    },
+    {
+        "XVelocity": 10,
+        "YVelocity": 11,
+        "ZVelocity": 10,
+        "Velocity": 17.916472867168917
+    },
+    {
+        "XVelocity": 11,
+        "YVelocity": 15,
+        "ZVelocity": 12,
+        "Velocity": 22.135943621178654
+    },
+    {
+        "XVelocity": 10,
+        "YVelocity": 17,
+        "ZVelocity": 13,
+        "Velocity": 23.62202362203543
+    },
+    {
+        "XVelocity": 20,
+        "YVelocity": 14,
+        "ZVelocity": 18,
+        "Velocity": 30.331501776206203
+    },
+    {
+        "XVelocity": 15,
+        "YVelocity": 21,
+        "ZVelocity": 12,
+        "Velocity": 28.460498941515414
+    },
+    {
+        "XVelocity": 16,
+        "YVelocity": 21,
+        "ZVelocity": 14,
+        "Velocity": 29.88310559496787
+    },
+    {
+        "XVelocity": 17,
+        "YVelocity": 22,
+        "ZVelocity": 23,
+        "Velocity": 36.08323710533743
+    },
+    {
+        "XVelocity": 22,
+        "YVelocity": 16,
+        "ZVelocity": 16,
+        "Velocity": 31.559467676119
+    },
+    {
+        "XVelocity": 24,
+        "YVelocity": 16,
+        "ZVelocity": 23,
+        "Velocity": 36.89173349139343
+    },
+    {
+        "XVelocity": 25,
+        "YVelocity": 23,
+        "ZVelocity": 24,
+        "Velocity": 41.593268686170845
+    },
+    {
+        "XVelocity": 27,
+        "YVelocity": 20,
+        "ZVelocity": 19,
+        "Velocity": 38.600518131237564
+    },
+    {
+        "XVelocity": 22,
+        "YVelocity": 23,
+        "ZVelocity": 23,
+        "Velocity": 39.26830783214372
+    },
+    {
+        "XVelocity": 27,
+        "YVelocity": 26,
+        "ZVelocity": 25,
+        "Velocity": 45.05552130427524
+    },
+    {
+        "XVelocity": 22,
+        "YVelocity": 25,
+        "ZVelocity": 30,
+        "Velocity": 44.82186966202994
+    },
+    {
+        "XVelocity": 31,
+        "YVelocity": 24,
+        "ZVelocity": 26,
+        "Velocity": 47.042533945356304
+    },
+    {
+        "XVelocity": 25,
+        "YVelocity": 26,
+        "ZVelocity": 25,
+        "Velocity": 43.88621651498338
+    },
+    {
+        "XVelocity": 31,
+        "YVelocity": 30,
+        "ZVelocity": 30,
+        "Velocity": 52.54521862167861
+    },
+    {
+        "XVelocity": 30,
+        "YVelocity": 27,
+        "ZVelocity": 32,
+        "Velocity": 51.507281038703645
+    },
+    {
+        "XVelocity": 32,
+        "YVelocity": 26,
+        "ZVelocity": 32,
+        "Velocity": 52.191953402799555
+    },
+    {
+        "XVelocity": 27,
+        "YVelocity": 27,
+        "ZVelocity": 28,
+        "Velocity": 47.34976240700686
+    },
+    {
+        "XVelocity": 29,
+        "YVelocity": 33,
+        "ZVelocity": 31,
+        "Velocity": 53.76802023508026
+    },
+    {
+        "XVelocity": 37,
+        "YVelocity": 32,
+        "ZVelocity": 36,
+        "Velocity": 60.73713855624086
+    },
+    {
+        "XVelocity": 31,
+        "YVelocity": 31,
+        "ZVelocity": 35,
+        "Velocity": 56.098128311023
+    },
+    {
+        "XVelocity": 34,
+        "YVelocity": 36,
+        "ZVelocity": 32,
+        "Velocity": 58.957611891934704
+    },
+    {
+        "XVelocity": 34,
+        "YVelocity": 38,
+        "ZVelocity": 33,
+        "Velocity": 60.73713855624086
+    },
+    {
+        "XVelocity": 36,
+        "YVelocity": 40,
+        "ZVelocity": 37,
+        "Velocity": 65.30696746902278
+    },
+    {
+        "XVelocity": 43,
+        "YVelocity": 37,
+        "ZVelocity": 37,
+        "Velocity": 67.72739475278819
+    },
+    {
+        "XVelocity": 38,
+        "YVelocity": 40,
+        "ZVelocity": 42,
+        "Velocity": 69.33974329343886
+    },
+    {
+        "XVelocity": 36,
+        "YVelocity": 42,
+        "ZVelocity": 43,
+        "Velocity": 70.06425622241343
+    },
+    {
+        "XVelocity": 37,
+        "YVelocity": 43,
+        "ZVelocity": 37,
+        "Velocity": 67.72739475278819
+    },
+    {
+        "XVelocity": 41,
+        "YVelocity": 47,
+        "ZVelocity": 46,
+        "Velocity": 77.49838707999025
+    },
+    {
+        "XVelocity": 42,
+        "YVelocity": 45,
+        "ZVelocity": 39,
+        "Velocity": 72.86974680894672
+    },
+    {
+        "XVelocity": 40,
+        "YVelocity": 46,
+        "ZVelocity": 40,
+        "Velocity": 72.91090453423274
+    },
+    {
+        "XVelocity": 42,
+        "YVelocity": 44,
+        "ZVelocity": 43,
+        "Velocity": 74.49161026585477
+    },
+    {
+        "XVelocity": 48,
+        "YVelocity": 46,
+        "ZVelocity": 45,
+        "Velocity": 80.2807573457052
+    },
+    {
+        "XVelocity": 51,
+        "YVelocity": 44,
+        "ZVelocity": 45,
+        "Velocity": 81.00617260431454
+    },
+    {
+        "XVelocity": 52,
+        "YVelocity": 49,
+        "ZVelocity": 53,
+        "Velocity": 88.9606654651369
+    },
+    {
+        "XVelocity": 51,
+        "YVelocity": 47,
+        "ZVelocity": 52,
+        "Velocity": 86.68333173107735
+    },
+    {
+        "XVelocity": 46,
+        "YVelocity": 54,
+        "ZVelocity": 51,
+        "Velocity": 87.36704184073076
+    },
+    {
+        "XVelocity": 53,
+        "YVelocity": 48,
+        "ZVelocity": 54,
+        "Velocity": 89.60468737739114
+    },
+    {
+        "XVelocity": 53,
+        "YVelocity": 54,
+        "ZVelocity": 48,
+        "Velocity": 89.60468737739114
+    },
+    {
+        "XVelocity": 58,
+        "YVelocity": 56,
+        "ZVelocity": 54,
+        "Velocity": 97.03607576566563
+    },
+    {
+        "XVelocity": 57,
+        "YVelocity": 50,
+        "ZVelocity": 59,
+        "Velocity": 96.0728889958036
+    },
+    {
+        "XVelocity": 54,
+        "YVelocity": 53,
+        "ZVelocity": 53,
+        "Velocity": 92.37965143904798
+    },
+    {
+        "XVelocity": 56,
+        "YVelocity": 57,
+        "ZVelocity": 61,
+        "Velocity": 100.52860289489753
+    },
+    {
+        "XVelocity": 54,
+        "YVelocity": 59,
+        "ZVelocity": 62,
+        "Velocity": 101.19782606360673
+    },
+    {
+        "XVelocity": 62,
+        "YVelocity": 63,
+        "ZVelocity": 57,
+        "Velocity": 105.17604289951205
+    },
+    {
+        "XVelocity": 55,
+        "YVelocity": 61,
+        "ZVelocity": 64,
+        "Velocity": 104.12492496996096
+    },
+    {
+        "XVelocity": 65,
+        "YVelocity": 60,
+        "ZVelocity": 65,
+        "Velocity": 109.77249200050075
+    },
+    {
+        "XVelocity": 65,
+        "YVelocity": 62,
+        "ZVelocity": 58,
+        "Velocity": 106.92520750505935
+    },
+    {
+        "XVelocity": 58,
+        "YVelocity": 60,
+        "ZVelocity": 58,
+        "Velocity": 101.62676812730001
+    },
+    {
+        "XVelocity": 59,
+        "YVelocity": 62,
+        "ZVelocity": 61,
+        "Velocity": 105.09995242624994
+    },
+    {
+        "XVelocity": 64,
+        "YVelocity": 67,
+        "ZVelocity": 65,
+        "Velocity": 113.18127053536729
+    },
+    {
+        "XVelocity": 70,
+        "YVelocity": 66,
+        "ZVelocity": 62,
+        "Velocity": 114.45523142259597
+    },
+    {
+        "XVelocity": 69,
+        "YVelocity": 67,
+        "ZVelocity": 69,
+        "Velocity": 118.36807001890332
+    },
+    {
+        "XVelocity": 70,
+        "YVelocity": 66,
+        "ZVelocity": 72,
+        "Velocity": 120.16655108639841
+    },
+    {
+        "XVelocity": 71,
+        "YVelocity": 65,
+        "ZVelocity": 65,
+        "Velocity": 116.15076409563564
+    },
+    {
+        "XVelocity": 65,
+        "YVelocity": 73,
+        "ZVelocity": 68,
+        "Velocity": 119.07140714714008
+    },
+    {
+        "XVelocity": 71,
+        "YVelocity": 73,
+        "ZVelocity": 74,
+        "Velocity": 125.88089608832628
+    },
+    {
+        "XVelocity": 71,
+        "YVelocity": 68,
+        "ZVelocity": 76,
+        "Velocity": 124.26182036329583
+    },
+    {
+        "XVelocity": 74,
+        "YVelocity": 75,
+        "ZVelocity": 77,
+        "Velocity": 130.49904214207857
+    },
+    {
+        "XVelocity": 77,
+        "YVelocity": 74,
+        "ZVelocity": 76,
+        "Velocity": 131.07631364972087
+    },
+    {
+        "XVelocity": 78,
+        "YVelocity": 74,
+        "ZVelocity": 78,
+        "Velocity": 132.83071933856263
+    },
+    {
+        "XVelocity": 76,
+        "YVelocity": 76,
+        "ZVelocity": 80,
+        "Velocity": 133.9850737955538
+    },
+    {
+        "XVelocity": 73,
+        "YVelocity": 77,
+        "ZVelocity": 77,
+        "Velocity": 131.0991990822217
+    },
+    {
+        "XVelocity": 76,
+        "YVelocity": 74,
+        "ZVelocity": 81,
+        "Velocity": 133.46535130886969
+    },
+    {
+        "XVelocity": 79,
+        "YVelocity": 78,
+        "ZVelocity": 74,
+        "Velocity": 133.42038824707413
+    },
+    {
+        "XVelocity": 84,
+        "YVelocity": 82,
+        "ZVelocity": 76,
+        "Velocity": 139.84276885130672
+    },
+    {
+        "XVelocity": 80,
+        "YVelocity": 83,
+        "ZVelocity": 83,
+        "Velocity": 142.0492872210206
+    },
+    {
+        "XVelocity": 80,
+        "YVelocity": 85,
+        "ZVelocity": 79,
+        "Velocity": 140.94679847375036
+    },
+    {
+        "XVelocity": 80,
+        "YVelocity": 84,
+        "ZVelocity": 84,
+        "Velocity": 143.22011031974526
+    },
+    {
+        "XVelocity": 82,
+        "YVelocity": 85,
+        "ZVelocity": 81,
+        "Velocity": 143.2131278898691
+    },
+    {
+        "XVelocity": 85,
+        "YVelocity": 89,
+        "ZVelocity": 80,
+        "Velocity": 146.78555787270082
+    },
+    {
+        "XVelocity": 83,
+        "YVelocity": 87,
+        "ZVelocity": 84,
+        "Velocity": 146.67651482088058
+    },
+    {
+        "XVelocity": 91,
+        "YVelocity": 88,
+        "ZVelocity": 83,
+        "Velocity": 151.37370973851438
+    },
+    {
+        "XVelocity": 87,
+        "YVelocity": 84,
+        "ZVelocity": 85,
+        "Velocity": 147.81745499094484
+    },
+    {
+        "XVelocity": 84,
+        "YVelocity": 85,
+        "ZVelocity": 85,
+        "Velocity": 146.64924138910504
+    },
+    {
+        "XVelocity": 92,
+        "YVelocity": 87,
+        "ZVelocity": 88,
+        "Velocity": 154.19792475905763
+    },
+    {
+        "XVelocity": 91,
+        "YVelocity": 90,
+        "ZVelocity": 90,
+        "Velocity": 156.46405337968207
+    },
+    {
+        "XVelocity": 90,
+        "YVelocity": 87,
+        "ZVelocity": 94,
+        "Velocity": 156.54072952429985
+    },
+    {
+        "XVelocity": 90,
+        "YVelocity": 90,
+        "ZVelocity": 90,
+        "Velocity": 155.88457268119896
+    },
+    {
+        "XVelocity": 93,
+        "YVelocity": 92,
+        "ZVelocity": 96,
+        "Velocity": 162.2621335986927
+    },
+    {
+        "XVelocity": 96,
+        "YVelocity": 99,
+        "ZVelocity": 98,
+        "Velocity": 169.17742166140255
+    },
+    {
+        "XVelocity": 92,
+        "YVelocity": 92,
+        "ZVelocity": 97,
+        "Velocity": 162.28678319567493
+    },
+    {
+        "XVelocity": 95,
+        "YVelocity": 100,
+        "ZVelocity": 97,
+        "Velocity": 168.6238417306402
+    },
+    {
+        "XVelocity": 94,
+        "YVelocity": 99,
+        "ZVelocity": 94,
+        "Velocity": 165.74981146293953
+    },
+    {
+        "XVelocity": 97,
+        "YVelocity": 95,
+        "ZVelocity": 98,
+        "Velocity": 167.44551352604225
+    },
+    {
+        "XVelocity": 102,
+        "YVelocity": 102,
+        "ZVelocity": 104,
+        "Velocity": 177.83138080777533
+    },
+    {
+        "XVelocity": 98,
+        "YVelocity": 97,
+        "ZVelocity": 102,
+        "Velocity": 171.51384783742682
+    },
+    {
+        "XVelocity": 99,
+        "YVelocity": 100,
+        "ZVelocity": 105,
+        "Velocity": 175.5733464965568
+    },
+    {
+        "XVelocity": 107,
+        "YVelocity": 100,
+        "ZVelocity": 103,
+        "Velocity": 179.0474797365213
+    },
+    {
+        "XVelocity": 102,
+        "YVelocity": 105,
+        "ZVelocity": 106,
+        "Velocity": 180.73461206974164
+    }
+]

@@ -1,0 +1,11 @@
+{"time":"2024-02-12T13:04:54.379133159Z","level":"INFO","msg":"opening ./demodata/xyzDemo.mrx"}
+{"time":"2024-02-12T13:04:54.381507669Z","level":"INFO","msg":"Searching register","MRXPath":{"MrxID":"MRX.123.456.789.mno","Action":"","Origin":""}}
+{"time":"2024-02-12T13:04:54.418658066Z","level":"INFO","msg":"opening ./demodata/temperatureDemo.mrx"}
+{"time":"2024-02-12T13:04:54.420148846Z","level":"INFO","msg":"Searching register","MRXPath":{"MrxID":"MRX.123.456.789.stu","Action":"","Origin":""}}
+{"time":"2024-02-12T13:04:54.436713284Z","level":"INFO","msg":"transformed to Known","MRXPath":{"MrxID":"MRX.123.456.789.vwx","Action":"","Parent":{"MrxID":"MRX.123.456.789.stu","Action":"","Origin":""},"Origin":""}}
+{"time":"2024-02-12T13:04:54.436794924Z","level":"DEBUG","msg":"transforming to fahrenheit","MRXPath":{"MrxID":"MRX.DEV.DEV.DEV.DEV","Action":"","Parent":{"MrxID":"MRX.123.456.789.vwx","Action":"","Parent":{"MrxID":"MRX.123.456.789.stu","Action":"","Origin":""},"Origin":""},"Origin":""}}
+{"time":"2024-02-12T13:04:54.437188004Z","level":"INFO","msg":"opening ./demodata/xyzDemoVel.mrx"}
+{"time":"2024-02-12T13:04:54.446389094Z","level":"INFO","msg":"Searching register","MRXPath":{"MrxID":"MRX.123.456.789.mno","Action":"","Origin":""}}
+{"time":"2024-02-12T13:04:54.48159304Z","level":"INFO","msg":"opening ./demodata/velDemo.mrx"}
+{"time":"2024-02-12T13:04:54.494439059Z","level":"INFO","msg":"Searching register","MRXPath":{"MrxID":"MRX.123.456.789.yza","Action":"","Origin":""}}
+{"time":"2024-02-12T13:04:54.495222389Z","level":"INFO","msg":"transofrming to accleration","MRXPath":{"MrxID":"MRX.123.456.789.yza","Action":"","Parent":{"MrxID":"MRX.123.456.789.yza","Action":"","Origin":""},"Origin":""}}
